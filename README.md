@@ -23,9 +23,5 @@ In this project, we explore different machine learning algorithms and techniques
 2. Explore the presentation slides for a condensed summary of the project.
 3. Examine the Jupyter Notebook for detailed code implementation and analysis.
 
-### Dependencies:
 
-- Python 3.x
-- Jupyter Notebook
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, etc. (Refer to requirements.txt for full list)
 
